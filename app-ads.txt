@@ -1,5 +1,7 @@
 #meta an
 facebook.com, 1871884549858713, RESELLER, c3e20eee3f780d68
+facebook.com, 1043138037021292, RESELLER, c3e20eee3f780d68
+facebook.com, 788173852171071, RESELLER, c3e20eee3f780d68
 #Google Admob
 google.com, pub-6069097926086877, DIRECT, f08c47fec0942fa0
 #applovin
