@@ -1,0 +1,26 @@
+image:
+  repository: uhub.service.ucloud.cn/kingboat/grand-universe-website
+  pullPolicy: IfNotPresent
+  tag: latest
+
+replicas: 1
+resources:
+  cpu: 1
+  memory: 1
+
+envs:
+
+gateway:
+  enabled: true
+  consistentHash: false
+  issuer:
+    email: dev@kingboat.io
+  hosts: &hosts
+  - grand-universe.com
+  selector:
+    istio: ingress-grand-universe
+  http:
+    hosts: *hosts
+  https:
+    hosts: *hosts 
+

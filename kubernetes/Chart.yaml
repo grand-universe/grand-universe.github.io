@@ -1,0 +1,7 @@
+apiVersion: v2
+name: superlight-engine-website
+version: 0.0.0
+description: Helm Chart for SuperLight Engine Website
+maintainers:
+  - name: Zhenxu Ke
+    email: zhenxu.ke@kingboat.io
