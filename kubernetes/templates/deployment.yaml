@@ -23,7 +23,7 @@ spec:
           resources:
             limits:
               cpu: {{ .Values.resources.cpu | quote }}
-              memory: "{{ .Values.resources.memory }}Gi"
+              memory: "{{ .Values.resources.memory }}"
           livenessProbe:
             httpGet:
               path: /

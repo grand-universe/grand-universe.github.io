@@ -6,7 +6,7 @@ image:
 replicas: 1
 resources:
   cpu: 1
-  memory: 1
+  memory: 500Mi
 
 envs:
 
