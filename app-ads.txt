@@ -1,4 +1,4 @@
-#meta an
+e#meta an
 facebook.com, 1043138037021292, RESELLER, c3e20eee3f780d68
 facebook.com, 788173852171071, DIRECT, c3e20eee3f780d68
 #Google Admob
@@ -1079,4 +1079,18 @@ triplelift.com, 12908, RESELLER, 6c33edb13117fd86
 loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
 e-planning.net, af5a107262468954, RESELLER, c1ba615865ed87b2
 improvedigital.com, 1408, RESELLER
-
+#20240806
+Xapads.com, 208087, DIRECT
+Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
+google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+admixer.net, 5c49edcd-b1dd-42c7-bcf2-5fbe4fba48a6, DIRECT
+video.unrulymedia.com, 827123801, RESELLER
+inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
+loopme.com, 11488, RESELLER, 6c8d5f95897a5a3b
+e-planning.net,ec771b05828a67fa,RESELLER,c1ba615865ed87b2
+onetag.com, 8305cc299686700, RESELLER
+vidoomy.com, 4433873, DIRECT
+adform.com, 2742, RESELLER
+admixer.co.kr, 1289, RESELLER
+admixer.co.kr, 2022, RESELLER
